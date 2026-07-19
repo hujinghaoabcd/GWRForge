@@ -1,0 +1,17 @@
+{
+  "profile": "pilot",
+  "random_seed": 20260719,
+  "grid_side": 8,
+  "n_test": 36,
+  "simulation_repetitions": 2,
+  "lg_max_iter": 8,
+  "lg_restarts": 1,
+  "gr_max_iter": 2,
+  "cv_splits": 3,
+  "cv_repeats": 1,
+  "real_datasets_lg": ["columbus", "ewhp"],
+  "real_datasets_gr": ["columbus", "georgia"],
+  "housing_sample_size": 300,
+  "run_mgwr": false,
+  "run_sgwr": false
+}
