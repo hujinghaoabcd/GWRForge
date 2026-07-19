@@ -1,0 +1,17 @@
+{
+  "profile": "full",
+  "random_seed": 20260719,
+  "grid_side": 20,
+  "n_test": 100,
+  "simulation_repetitions": 100,
+  "lg_max_iter": 100,
+  "lg_restarts": 5,
+  "gr_max_iter": 10,
+  "cv_splits": 5,
+  "cv_repeats": 10,
+  "real_datasets_lg": ["ewhp", "crime", "hiv", "housing", "dublin_voter"],
+  "real_datasets_gr": ["georgia", "dublin_voter", "housing"],
+  "housing_sample_size": 2000,
+  "run_mgwr": true,
+  "run_sgwr": true
+}
